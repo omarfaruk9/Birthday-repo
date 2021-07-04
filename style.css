@@ -1,0 +1,91 @@
+body{
+    margin: ;
+    font-family: 'Abril Fatface', cursive;
+    box-sizing: border-box;
+    background-color: #00A4CCFF;
+    color: white;
+}
+.top-banner{
+    background-image: url(img/nntop-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.brt{
+    font-size: 50px;
+    color: rgb(230, 217, 40);
+}
+.mariyam{
+    color: chartreuse;
+}
+
+.common{
+    display: flex;
+    margin-top: 50px;
+}
+.first{
+    width: 50%;
+    margin-left: 15px;
+}
+.first img{
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.btn{
+    text-decoration: none;
+    font-size: 20px;
+    background-image:linear-gradient( to right, rgb(116, 165, 184), rgb(150, 51, 51), rgb(52, 52, 137));
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-image: linear-gradient(to right, orange, navy);
+}
+..dream{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.epi{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 5px;
+}
+
+#web1{
+    border-left: 7px solid;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+      rgb(191, 42, 42), 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+    padding: 10px 25px;
+}
+
+#web2{
+    border-left: 7px solid;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+      rgb(21, 11, 132), 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+    padding: 10px 25px;
+}
+.card{
+    margin-bottom: 50px;
+}
+.exp{
+    margin-top: 50px;
+}
+.card h1{
+    margin-left: 200px;
+}
+footer p{
+    text-align: center;
+}
